@@ -1,6 +1,9 @@
 /// Phase1: Understanding object storage (header + data + hash)
 // object.c — Content-addressable object store
 
+
+
+/// Build header: "<type> <size>"
 #include "pes.h"
 #include <stdio.h>
 #include <stdlib.h>
