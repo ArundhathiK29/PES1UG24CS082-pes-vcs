@@ -1,3 +1,4 @@
+//implementing index_add
 //implement index_save
 //implement index_load
 // index.c — Staging area implementation
