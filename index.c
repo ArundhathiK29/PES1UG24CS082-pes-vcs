@@ -1,3 +1,4 @@
+//full code and tested
 //implementing index_add
 //implement index_save
 //implement index_load
