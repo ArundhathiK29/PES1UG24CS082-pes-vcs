@@ -1,3 +1,4 @@
+// write commit object'xy
 
 //add parent linking"
 //building tree from index
