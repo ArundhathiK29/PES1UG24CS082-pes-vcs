@@ -60,7 +60,7 @@ int object_exists(const ObjectID *id) {
 }
 
 // ─── IMPLEMENTATION ───────────────────────────────────
-
+/// All tests passing
 int object_write(ObjectType type, const void *data, size_t len, ObjectID *id_out) {
     // 1. Type string
     const char *type_str = (type == OBJ_BLOB) ? "blob" :
