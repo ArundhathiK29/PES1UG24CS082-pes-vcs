@@ -4,6 +4,9 @@
 
 
 /// Build header: "<type> <size>"
+
+
+/// Compute SHA256 and check if object already exists
 #include "pes.h"
 #include <stdio.h>
 #include <stdlib.h>
