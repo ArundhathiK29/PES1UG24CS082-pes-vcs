@@ -17,6 +17,7 @@
 #include <openssl/evp.h>
 
 // ─── PROVIDED ─────────────────────────────────────────
+/// Write object to temp file and rename atomically
 
 void hash_to_hex(const ObjectID *id, char *hex_out) {
     for (int i = 0; i < HASH_SIZE; i++) {
