@@ -1,3 +1,4 @@
+//building tree from index
 //understanding commit structure
 // commit.c — Commit creation and history traversal
 //
